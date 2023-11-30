@@ -1,0 +1,4 @@
+So this application is waiting for 5 integers - in the range [0,10] - from the user.
+Then the application sorts the integers and show the result.
+
+Let's create independent methods for the independent operations!
